@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Scientific_Calculator
+A fully functional Scientific Calculator built with React, JavaScript, HTML, and CSS. It supports basic arithmetic and advanced functions like powers, roots, logs, and trigonometry. Featuring a clean, responsive UI, it is lightweight, fast, and ideal for both learning and practical use.
+>>>>>>> 6fea6f834603e0d5725a4e16be0735896832f6ae
